@@ -10,23 +10,23 @@ Package Delivery application supports following command line arguments:
  * path to initial data about delivery places. Example: *-data=.\src\main\resources\data.txt*
  * example of file format:
 		
-	3.4 08801
-	2 90005
-	12.56 08801
-	5.5 08079
-	3.2 09300	
+		3.4 08801
+		2 90005
+		12.56 08801
+		5.5 08079
+		3.2 09300	
 	
 ##### -priceList 
  * path to price list. Example: *-priceList=.\src\main\resources\priceList.txt*
  * example of file format:
 
-	10 5.00
-	5 2.50
-	3 2.00
-	2 1.50
-	1 1.00
-	0.5 0.70
-	0.2 0.50
+		10 5.00
+		5 2.50
+		3 2.00
+		2 1.50
+		1 1.00
+		0.5 0.70
+		0.2 0.50
 
 ## Maven start
 
