@@ -30,8 +30,7 @@ public class ConsoleOutput {
 	/**
 	 * The interval value means how often the periodical console output is done.
 	 */
-	// TODO change to 60000
-	private final int INTERVAL = 10000;
+	private final int INTERVAL = 60000;
 
 	/**
 	 * Method starts periodical console output.
